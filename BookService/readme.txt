@@ -1,0 +1,4 @@
+- WebAPI 2
+- Entity Framework 6
+- Knockout.js (MVVM pattern)
+- Reference: https://www.asp.net/web-api/overview/data/using-web-api-with-entity-framework/
